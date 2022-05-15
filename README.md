@@ -16,16 +16,18 @@ Black (no Numbers, IP Window or stuff)-conected
 
 there is also an App Inventor .aia file to make changes or see inside.
 
+_____________________________________________________________________________________________________________________________________
+
 To visual lise your Data, just connect to the Broker and send the Data via following Topics (Node Red is a nice tool for that ;) ):
-/home/smalmirror/topic      - the Topic/headline
-/home/smalmirror/value/a    - 1. right window
-/home/smalmirror/value/b    - 2. right window
-/home/smalmirror/value/c    - 3. right window
-/home/smalmirror/value/d    - 4. right window
-/home/smalmirror/label/a    - 1. left window
-/home/smalmirror/label/b    - 2. left window
-/home/smalmirror/label/c    - 3. left window
-/home/smalmirror/label/d    - 4. left window
+"/home/smalmirror/topic"      - the Topic/headline
+"/home/smalmirror/value/a"    - 1. right window
+"/home/smalmirror/value/b"    - 2. right window
+"/home/smalmirror/value/c"    - 3. right window
+"/home/smalmirror/value/d"    - 4. right window
+"/home/smalmirror/label/a"    - 1. left window
+"/home/smalmirror/label/b"    - 2. left window
+"/home/smalmirror/label/c"    - 3. left window
+"/home/smalmirror/label/d"    - 4. left window
 the next following Windwo has a variable size
-/home/smalmirror/add        - the bigger window with muteble lines at the lower area of the screen
-/home/smalmirror/addSize    - change the size of the lower screen
+"/home/smalmirror/add"        - the bigger window with muteble lines at the lower area of the screen
+"/home/smalmirror/addSize"    - change the size of the lower screen
